@@ -1,308 +1,308 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T06:23:39.092Z" agent="5.0 (Windows)" etag="sfPjngpG5sxK2yTA_4ip" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T12:17:19.619Z" agent="5.0 (Windows)" etag="q80leWy5V3ZCOO6FojeM" version="13.9.7" type="github">
   <diagram id="vEiSTaZbcw97rQkxudYu" name="Page-1">
-    <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5190" dy="2875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="Product backlog" lucidchartObjectId="lnUHdCyc9g93" id="CvImws8w8auNJ2Tw3-q7-1">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=9;fontColor=#666666;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=6;" vertex="1" zOrder="0" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=9;fontColor=#666666;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=6;" parent="1" vertex="1" zOrder="0">
             <mxGeometry x="120" y="214" width="420" height="24" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;#34;t&amp;#34;:&amp;#34;Sprint planning meeting Date: November 12, 2020 Scrum team: JoKeR&amp;#34;,&amp;#34;m&amp;#34;:[{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;a&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;left&amp;#34;},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fl&amp;#34;,&amp;#34;v&amp;#34;:11.2},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;il&amp;#34;,&amp;#34;v&amp;#34;:11.2},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;ir&amp;#34;,&amp;#34;v&amp;#34;:11.2},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;mt&amp;#34;,&amp;#34;v&amp;#34;:3.2},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;p&amp;#34;,&amp;#34;v&amp;#34;:1.5},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;b&amp;#34;,&amp;#34;v&amp;#34;:true,&amp;#34;e&amp;#34;:65},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;c&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;#ffffffff&amp;#34;,&amp;#34;e&amp;#34;:65},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fc&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;Bold&amp;#34;,&amp;#34;e&amp;#34;:65},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fid&amp;#34;,&amp;#34;v&amp;#34;:5,&amp;#34;e&amp;#34;:65},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;s&amp;#34;,&amp;#34;v&amp;#34;:22.22222222222222,&amp;#34;e&amp;#34;:24},{&amp;#34;s&amp;#34;:24,&amp;#34;n&amp;#34;:&amp;#34;s&amp;#34;,&amp;#34;v&amp;#34;:20,&amp;#34;e&amp;#34;:65}]}&quot;&gt;&lt;span style=&quot;font-size: 16.666666666666664px ; text-align: left ; font-weight: bold ; color: #ffffff&quot;&gt;Sprint planning meeting &lt;/span&gt;&lt;span style=&quot;text-align: left ; font-weight: bold ; color: #ffffff ; font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;#34;t&amp;#34;:&amp;#34;Sprint planning meeting Date: November 12, 2020 Scrum team: JoKeR&amp;#34;,&amp;#34;m&amp;#34;:[{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;a&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;left&amp;#34;},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fl&amp;#34;,&amp;#34;v&amp;#34;:11.2},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;il&amp;#34;,&amp;#34;v&amp;#34;:11.2},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;ir&amp;#34;,&amp;#34;v&amp;#34;:11.2},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;mt&amp;#34;,&amp;#34;v&amp;#34;:3.2},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;p&amp;#34;,&amp;#34;v&amp;#34;:1.5},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;b&amp;#34;,&amp;#34;v&amp;#34;:true,&amp;#34;e&amp;#34;:65},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;c&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;#ffffffff&amp;#34;,&amp;#34;e&amp;#34;:65},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fc&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;Bold&amp;#34;,&amp;#34;e&amp;#34;:65},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fid&amp;#34;,&amp;#34;v&amp;#34;:5,&amp;#34;e&amp;#34;:65},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;s&amp;#34;,&amp;#34;v&amp;#34;:22.22222222222222,&amp;#34;e&amp;#34;:24},{&amp;#34;s&amp;#34;:24,&amp;#34;n&amp;#34;:&amp;#34;s&amp;#34;,&amp;#34;v&amp;#34;:20,&amp;#34;e&amp;#34;:65}]}&quot;&gt;&lt;span style=&quot;text-align: left ; font-weight: bold ; color: #ffffff ; font-size: 15px&quot;&gt;Date: November 12, 2020 &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;#34;t&amp;#34;:&amp;#34;Sprint planning meeting Date: November 12, 2020 Scrum team: JoKeR&amp;#34;,&amp;#34;m&amp;#34;:[{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;a&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;left&amp;#34;},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fl&amp;#34;,&amp;#34;v&amp;#34;:11.2},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;il&amp;#34;,&amp;#34;v&amp;#34;:11.2},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;ir&amp;#34;,&amp;#34;v&amp;#34;:11.2},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;mt&amp;#34;,&amp;#34;v&amp;#34;:3.2},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;p&amp;#34;,&amp;#34;v&amp;#34;:1.5},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;b&amp;#34;,&amp;#34;v&amp;#34;:true,&amp;#34;e&amp;#34;:65},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;c&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;#ffffffff&amp;#34;,&amp;#34;e&amp;#34;:65},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fc&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;Bold&amp;#34;,&amp;#34;e&amp;#34;:65},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fid&amp;#34;,&amp;#34;v&amp;#34;:5,&amp;#34;e&amp;#34;:65},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;s&amp;#34;,&amp;#34;v&amp;#34;:22.22222222222222,&amp;#34;e&amp;#34;:24},{&amp;#34;s&amp;#34;:24,&amp;#34;n&amp;#34;:&amp;#34;s&amp;#34;,&amp;#34;v&amp;#34;:20,&amp;#34;e&amp;#34;:65}]}&quot;&gt;&lt;span style=&quot;text-align: left ; font-weight: bold ; color: #ffffff ; font-size: 15px&quot;&gt;Scrum team: JoKeR&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="wmUHfIksAr4j" id="CvImws8w8auNJ2Tw3-q7-2">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#eb6b6b;" vertex="1" zOrder="6.333333333333371" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#eb6b6b;" parent="1" vertex="1" zOrder="6.333333333333371">
             <mxGeometry x="120" y="119" width="396" height="85" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Sprint goal:" lucidchartObjectId="KmUH5ql9a5Q3" id="CvImws8w8auNJ2Tw3-q7-3">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;fontColor=#ffffff;fontStyle=1;align=left;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#eb6b6b;" vertex="1" zOrder="7.333333333333371" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;fontColor=#ffffff;fontStyle=1;align=left;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#eb6b6b;" parent="1" vertex="1" zOrder="7.333333333333371">
             <mxGeometry x="540" y="121" width="396" height="82" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1;margin-left: 7px;margin-right: 7px;margin-top: 2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;user&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, saya ingin melakukan &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;pendaftaran&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt; akun customer menggunakan nomor ponsel &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="poUHfXFEp2t8" id="CvImws8w8auNJ2Tw3-q7-4">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="11.333333333333371" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="11.333333333333371">
             <mxGeometry x="156" y="247" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI Register Customer" lucidchartObjectId="8xUHmI7MeBq~" id="CvImws8w8auNJ2Tw3-q7-5">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="173.33333333333337" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="173.33333333333337">
             <mxGeometry x="562" y="272" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat API / restAPI register Customer. (CREATE)" lucidchartObjectId="8xUHgiUF9pWD" id="CvImws8w8auNJ2Tw3-q7-6">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="252.33333333333337" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="252.33333333333337">
             <mxGeometry x="703" y="272" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat API / restAPI login Customer. (READ)" lucidchartObjectId="Ad6Iri2tNVSc" id="CvImws8w8auNJ2Tw3-q7-7">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="358.33333333333337" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" parent="1" vertex="1" zOrder="358.33333333333337">
             <mxGeometry x="705" y="440" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="CvImws8w8auNJ2Tw3-q7-8" value="" style="fillColor=none;strokeColor=none;pointerEvents=0;html=1;whiteSpace=wrap;container=1;collapsible=0;childLayout=stackLayout;resizeParent=1;dropTarget=0;whiteSpace=wrap;fontSize=11;spacing=0;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;" vertex="1" zOrder="360.33333333333337" parent="1">
+        <mxCell id="CvImws8w8auNJ2Tw3-q7-8" value="" style="fillColor=none;strokeColor=none;pointerEvents=0;html=1;whiteSpace=wrap;container=1;collapsible=0;childLayout=stackLayout;resizeParent=1;dropTarget=0;whiteSpace=wrap;fontSize=11;spacing=0;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;" parent="1" vertex="1" zOrder="360.33333333333337">
           <mxGeometry x="120" y="214" width="1404.00226589407" height="2976" as="geometry" />
         </mxCell>
-        <mxCell id="CvImws8w8auNJ2Tw3-q7-9" value="Product backlog" style="swimlane;html=1;whiteSpace=wrap;container=1;connectable=0;collapsible=0;startSize=24;dropTarget=0;rounded=0;whiteSpace=wrap;fontSize=11;spacing=0;strokeColor=#b2b2b2;strokeOpacity=100;fillOpacity=100;fillColor=#ffa0a0;fontSize=12;fontColor=#333333;fontStyle=1;align=center;" vertex="1" parent="CvImws8w8auNJ2Tw3-q7-8">
+        <mxCell id="CvImws8w8auNJ2Tw3-q7-9" value="Product backlog" style="swimlane;html=1;whiteSpace=wrap;container=1;connectable=0;collapsible=0;startSize=24;dropTarget=0;rounded=0;whiteSpace=wrap;fontSize=11;spacing=0;strokeColor=#b2b2b2;strokeOpacity=100;fillOpacity=100;fillColor=#ffa0a0;fontSize=12;fontColor=#333333;fontStyle=1;align=center;" parent="CvImws8w8auNJ2Tw3-q7-8" vertex="1">
           <mxGeometry width="408.0522658940699" height="2976" as="geometry" />
         </mxCell>
-        <mxCell id="CvImws8w8auNJ2Tw3-q7-10" value="Sprint backlog" style="swimlane;html=1;whiteSpace=wrap;container=1;connectable=0;collapsible=0;startSize=24;dropTarget=0;rounded=0;whiteSpace=wrap;fontSize=11;spacing=0;strokeColor=#b2b2b2;strokeOpacity=100;fillOpacity=100;fillColor=#ffa0a0;fontSize=12;fontColor=#333333;fontStyle=1;align=center;" vertex="1" parent="CvImws8w8auNJ2Tw3-q7-8">
-          <mxGeometry x="408.0522658940699" width="995.95" height="2976" as="geometry" />
+        <mxCell id="CvImws8w8auNJ2Tw3-q7-10" value="Sprint backlog" style="swimlane;html=1;whiteSpace=wrap;container=1;connectable=0;collapsible=0;startSize=24;dropTarget=0;rounded=0;whiteSpace=wrap;fontSize=11;spacing=0;strokeColor=#b2b2b2;strokeOpacity=100;fillOpacity=100;fillColor=#ffa0a0;fontSize=12;fontColor=#333333;fontStyle=1;align=center;" parent="CvImws8w8auNJ2Tw3-q7-8" vertex="1">
+          <mxGeometry x="408.0522658940699" width="871.95" height="2976" as="geometry" />
         </mxCell>
         <UserObject label="Menyediaan tombol Logout (Keluar)" lucidchartObjectId="6A3LnTWZfHPV" id="CvImws8w8auNJ2Tw3-q7-11">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="550.3333333333334" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="550.3333333333334">
             <mxGeometry x="562" y="613" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Menghapus sesi pengguna" lucidchartObjectId="6A3LvR9p5XG7" id="CvImws8w8auNJ2Tw3-q7-12">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="629.3333333333334" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="629.3333333333334">
             <mxGeometry x="705" y="613" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="CvImws8w8auNJ2Tw3-q7-13" value="" style="group;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="CvImws8w8auNJ2Tw3-q7-13" value="" style="group;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="272" y="40" width="512" height="35" as="geometry" />
         </mxCell>
         <UserObject label="DOM : Digital Order &amp; Menu" lucidchartObjectId="kjRxX7s4Idw_" id="CvImws8w8auNJ2Tw3-q7-14">
-          <mxCell style="points=[[0.298,0.967,0],[0.712,0.967,0]];html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=15;fontColor=#a9afb8;fontStyle=1;align=center;spacingLeft=5.628;spacingRight=9.38;spacingTop=2.68;spacing=2;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="631.3333333333334" parent="CvImws8w8auNJ2Tw3-q7-13">
+          <mxCell style="points=[[0.298,0.967,0],[0.712,0.967,0]];html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=15;fontColor=#a9afb8;fontStyle=1;align=center;spacingLeft=5.628;spacingRight=9.38;spacingTop=2.68;spacing=2;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="CvImws8w8auNJ2Tw3-q7-13" vertex="1" zOrder="631.3333333333334">
             <mxGeometry width="512" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Kevin |  %date{mmmm d, yyyy}%" placeholders="1" lucidchartObjectId="kjRx7DT8-hxf" id="CvImws8w8auNJ2Tw3-q7-15">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=9;fontColor=#a9afb8;align=center;spacingLeft=5.628;spacingRight=9.38;spacingTop=2.68;spacing=2;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="633.3333333333334" parent="CvImws8w8auNJ2Tw3-q7-13">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=9;fontColor=#a9afb8;align=center;spacingLeft=5.628;spacingRight=9.38;spacingTop=2.68;spacing=2;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="CvImws8w8auNJ2Tw3-q7-13" vertex="1" zOrder="633.3333333333334">
             <mxGeometry y="24" width="512" height="11" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1;margin-left: 7px;margin-right: 7px;margin-top: 2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;user&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, saya ingin melakukan &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;login&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt; menggunakan nomor ponsel &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="N-xNthcRMVI." id="CvImws8w8auNJ2Tw3-q7-17">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283084.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="283084.56614998414">
             <mxGeometry x="156" y="415" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI Register Customer" lucidchartObjectId="lhyNN_h_D~vL" id="CvImws8w8auNJ2Tw3-q7-18">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283085.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="283085.56614998414">
             <mxGeometry x="562" y="440" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1;margin-left: 7px;margin-right: 7px;margin-top: 2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;user&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, saya bisa melakukan &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;logout&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt; atau mengganti akun&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="2kyNK3nhTXEo" id="CvImws8w8auNJ2Tw3-q7-19">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283086.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="283086.56614998414">
             <mxGeometry x="156" y="588" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1;margin-left: 7px;margin-right: 7px;margin-top: 2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;user&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, saya ingin &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;mencari barang&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, sehingga saya dapat menemukan barang yang akan saya beli.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="XnyNjE2kTpU0" id="CvImws8w8auNJ2Tw3-q7-20">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283087.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="283087.56614998414">
             <mxGeometry x="156" y="756" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Menyediakan kolom pencarian " lucidchartObjectId=".oyNDkWMx5iZ" id="CvImws8w8auNJ2Tw3-q7-21">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283088.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283088.56614998414">
             <mxGeometry x="562" y="768" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat REST API untuk menampilkan hasil pencarian berdasarkan nama barang" lucidchartObjectId="apyNY575TG_o" id="CvImws8w8auNJ2Tw3-q7-22">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283089.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283089.56614998414">
             <mxGeometry x="705" y="762" width="96" height="84" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat  UI list barang " lucidchartObjectId="QqyNexRGHoxa" id="CvImws8w8auNJ2Tw3-q7-23">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283090.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283090.56614998414">
             <mxGeometry x="849" y="762" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Menampilkan hasil pencarian barang dari database" lucidchartObjectId="sryN-a9uXJjH" id="CvImws8w8auNJ2Tw3-q7-24">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283091.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" parent="1" vertex="1" zOrder="283091.56614998414">
             <mxGeometry x="992" y="762" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1;margin-left: 7px;margin-right: 7px;margin-top: 2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;user&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, saya ingin &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;mencari merchant&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, sehingga saya dapat melihat barang apa saja yang dijual oleh suatu merchant.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="HryN1Uu61ICZ" id="CvImws8w8auNJ2Tw3-q7-25">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283092.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="283092.56614998414">
             <mxGeometry x="156" y="924" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Menyediakan kolom pencarian " lucidchartObjectId="8ryNILgg8bY0" id="CvImws8w8auNJ2Tw3-q7-26">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283093.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283093.56614998414">
             <mxGeometry x="562" y="949" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat REST API untuk menampilkan hasil pencarian berdasarkan nama merchant" lucidchartObjectId=".ryN1g_rWgmo" id="CvImws8w8auNJ2Tw3-q7-27">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283094.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283094.56614998414">
             <mxGeometry x="705" y="943" width="96" height="84" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat  UI list merchant" lucidchartObjectId="CsyNqUAjTu8~" id="CvImws8w8auNJ2Tw3-q7-28">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283095.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283095.56614998414">
             <mxGeometry x="849" y="949" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Menampilkan hasil pencarian merchant dari database" lucidchartObjectId="KsyNTCgNxywR" id="CvImws8w8auNJ2Tw3-q7-29">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283096.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" parent="1" vertex="1" zOrder="283096.56614998414">
             <mxGeometry x="992" y="949" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1;margin-left: 7px;margin-right: 7px;margin-top: 2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;user&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, saya ingin &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;memesan barang&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, sehingga saya dapat tinggal mengambil setelah sampai di lokasi merchant tanpa menunggu&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="WvyNErS_rolU" id="CvImws8w8auNJ2Tw3-q7-30">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283097.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="283097.56614998414">
             <mxGeometry x="156" y="1104" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="7vyNLhjyJuls" id="CvImws8w8auNJ2Tw3-q7-31">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="283098.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="283098.56614998414">
             <mxGeometry x="152" y="388" width="1156" height="8" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="XwyNA3ZMn6cm" id="CvImws8w8auNJ2Tw3-q7-32">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="283099.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="283099.56614998414">
             <mxGeometry x="152" y="564" width="1156" height="8" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="pxyN8V~bEpLs" id="CvImws8w8auNJ2Tw3-q7-33">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="283100.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="283100.56614998414">
             <mxGeometry x="152" y="731" width="1156" height="6" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="ayyN8Y5DcbNm" id="CvImws8w8auNJ2Tw3-q7-34">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="283101.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="283101.56614998414">
             <mxGeometry x="156" y="899" width="1152" height="6" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="iyyNaUyH684-" id="CvImws8w8auNJ2Tw3-q7-35">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="283102.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="283102.56614998414">
             <mxGeometry x="156" y="1072" width="1152" height="8" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat  UI tampilan detail sebuah merchant dan list barang yang di jual" lucidchartObjectId="cAyNQN8qN5DX" id="CvImws8w8auNJ2Tw3-q7-36">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283103.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283103.56614998414">
             <mxGeometry x="1135" y="943" width="96" height="84" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat  UI tampilan detail sebuah merchant dan list barang yang di jual" lucidchartObjectId="pByNYkHUJlzA" id="CvImws8w8auNJ2Tw3-q7-37">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283104.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283104.56614998414">
             <mxGeometry x="1135" y="756" width="96" height="84" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI Formulir Pemesanan " lucidchartObjectId="FGyNmLsQeGI_" id="CvImws8w8auNJ2Tw3-q7-38">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283105.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283105.56614998414">
             <mxGeometry x="562" y="1129" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat REST API untuk melakukan tambah pesanan (CREATE) " lucidchartObjectId="THyNKQChuKBK" id="CvImws8w8auNJ2Tw3-q7-39">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283106.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283106.56614998414">
             <mxGeometry x="703" y="1123" width="96" height="84" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI menampilkan status pesanan " lucidchartObjectId="pIyNmBMIniuZ" id="CvImws8w8auNJ2Tw3-q7-40">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283107.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283107.56614998414">
             <mxGeometry x="849" y="1129" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="oKyNZNodYEoR" id="CvImws8w8auNJ2Tw3-q7-41">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="283108.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="283108.56614998414">
             <mxGeometry x="156" y="1260" width="1152" height="8" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1;margin-left: 7px;margin-right: 7px;margin-top: 2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;user&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, saya ingin &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;riwayat pemesanan barang&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, sehingga saya dapat mengetahui produk apa saja telah saya beli dan di merchant mana&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="kLyNapSzeeis" id="CvImws8w8auNJ2Tw3-q7-42">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283109.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="283109.56614998414">
             <mxGeometry x="162" y="1308" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI Riwayat Pemesanan" lucidchartObjectId="WLyNhE0HLZ~i" id="CvImws8w8auNJ2Tw3-q7-43">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283110.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283110.56614998414">
             <mxGeometry x="562" y="1333" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat REST API untuk menampilkan  pesanan (READ) " lucidchartObjectId="aMyN0k6pchRS" id="CvImws8w8auNJ2Tw3-q7-44">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283111.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283111.56614998414">
             <mxGeometry x="705" y="1333" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI detail riwayat pemesanan" lucidchartObjectId="sNyNPskzD7l~" id="CvImws8w8auNJ2Tw3-q7-45">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283112.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283112.56614998414">
             <mxGeometry x="849" y="1333" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="2NyNCo-DsKB2" id="CvImws8w8auNJ2Tw3-q7-46">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="283113.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="283113.56614998414">
             <mxGeometry x="162" y="1476" width="1152" height="8" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1;margin-left: 7px;margin-right: 7px;margin-top: 2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;user&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, saya ingin &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;melihat produk yang sedang promosi&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;, sehingga menghemat pengeluaran saya &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="fPyNucegCs2Z" id="CvImws8w8auNJ2Tw3-q7-47">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283114.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="283114.56614998414">
             <mxGeometry x="162" y="1530" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI Halaman Promosi" lucidchartObjectId="HQyNfHbKl6NE" id="CvImws8w8auNJ2Tw3-q7-48">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283115.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283115.56614998414">
             <mxGeometry x="576" y="1555" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat REST API untuk menampilkan  produk yang sedang promosi (READ) " lucidchartObjectId="UQyNI9-7l~wJ" id="CvImws8w8auNJ2Tw3-q7-49">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" vertex="1" zOrder="283116.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#e9e9ea;" parent="1" vertex="1" zOrder="283116.56614998414">
             <mxGeometry x="705" y="1549" width="96" height="84" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Menampilkan hasil  dari database" lucidchartObjectId="~QyNCXprH39V" id="CvImws8w8auNJ2Tw3-q7-50">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283117.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" parent="1" vertex="1" zOrder="283117.56614998414">
             <mxGeometry x="852" y="1555" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="pRyNCLRM.b4K" id="CvImws8w8auNJ2Tw3-q7-51">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="283118.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="283118.56614998414">
             <mxGeometry x="162" y="1680" width="1152" height="8" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1;margin-left: 7px;margin-right: 7px;margin-top: 2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;pemilik UMKM&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt; saya ingin melakukan &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;pendaftaran&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt; akun merchant menggunakan nomor ponsel &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="4SyNmcwda08m" id="CvImws8w8auNJ2Tw3-q7-52">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283119.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="283119.56614998414">
             <mxGeometry x="168" y="1740" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI Register Merchant" lucidchartObjectId="rUyNNiZpBtcB" id="CvImws8w8auNJ2Tw3-q7-53">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283120.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="283120.56614998414">
             <mxGeometry x="576" y="1764" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Membuat API / restAPI login Merchant. (CREATE)" lucidchartObjectId="rUyNHyXhVPyy" id="CvImws8w8auNJ2Tw3-q7-54">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283305.56614998414" parent="1">
+        <UserObject label="Membuat API / restAPI login Merchant. (READ)" lucidchartObjectId="rUyNHyXhVPyy" id="CvImws8w8auNJ2Tw3-q7-54">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" parent="1" vertex="1" zOrder="283305.56614998414">
             <mxGeometry x="719" y="1932" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat API / restAPI register Merchant. (CREATE)" lucidchartObjectId="CUyNVHb74kEc" id="CvImws8w8auNJ2Tw3-q7-55">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283306.56614998414" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="283306.56614998414">
             <mxGeometry x="717" y="1764" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI Register Customer" lucidchartObjectId="CUyN6VVBUE5g" id="CvImws8w8auNJ2Tw3-q7-56">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566139.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566139.798966635">
             <mxGeometry x="576" y="1932" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="5VyNxfhmvjlJ" id="CvImws8w8auNJ2Tw3-q7-57">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="566140.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="566140.798966635">
             <mxGeometry x="162" y="1884" width="1152" height="8" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1;margin-left: 7px;margin-right: 7px;margin-top: 2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;pemilik UMKM&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt; saya ingin melakukan &lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-weight: bold;font-style: italic;&quot;&gt;pendaftaran&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;font-style: italic;&quot;&gt; akun merchant menggunakan nomor ponsel &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="bWyNldr1Hctj" id="CvImws8w8auNJ2Tw3-q7-58">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566141.798966635" parent="1">
+        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1 ; margin-left: 7px ; margin-right: 7px ; margin-top: 2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-weight: bold ; font-style: italic&quot;&gt;pemilik UMKM&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt; saya ingin melakukan &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-weight: bold ; font-style: italic&quot;&gt;login &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt;akun merchant menggunakan nomor ponsel &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="bWyNldr1Hctj" id="CvImws8w8auNJ2Tw3-q7-58">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566141.798966635">
             <mxGeometry x="174" y="1907" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI halaman beranda" lucidchartObjectId="9WyNo7y3j.a1" id="CvImws8w8auNJ2Tw3-q7-59">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566142.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566142.798966635">
             <mxGeometry x="849" y="272" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI halaman beranda" lucidchartObjectId="AXyNho07WAuw" id="CvImws8w8auNJ2Tw3-q7-60">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566143.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566143.798966635">
             <mxGeometry x="849" y="440" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Mengalihkan ke halaman beranda" lucidchartObjectId="FXyNKsgFE3rK" id="CvImws8w8auNJ2Tw3-q7-61">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566144.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566144.798966635">
             <mxGeometry x="978" y="272" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Mengalihkan ke halaman beranda" lucidchartObjectId="VXyNonN3crQb" id="CvImws8w8auNJ2Tw3-q7-62">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566145.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566145.798966635">
             <mxGeometry x="978" y="440" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="kjRxmpqBgmZm" id="CvImws8w8auNJ2Tw3-q7-65">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=11;strokeColor=#a9afb8;strokeOpacity=100;rounded=0;startArrow=none;;endArrow=none;;exitX=0.298;exitY=0.967;exitPerimeter=0;entryX=0.712;entryY=0.967;entryPerimeter=0;" edge="1" parent="1">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=11;strokeColor=#a9afb8;strokeOpacity=100;rounded=0;startArrow=none;;endArrow=none;;exitX=0.298;exitY=0.967;exitPerimeter=0;entryX=0.712;entryY=0.967;entryPerimeter=0;" parent="1" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
               <mxPoint x="419" y="65" as="sourcePoint" />
@@ -311,88 +311,203 @@
           </mxCell>
         </UserObject>
         <UserObject label="Mengalihkan ke halaman Login" lucidchartObjectId="VXyNonN3crQb" id="CvImws8w8auNJ2Tw3-q7-66">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566145.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566145.798966635">
             <mxGeometry x="850" y="613.5" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="5VyNxfhmvjlJ" id="CvImws8w8auNJ2Tw3-q7-67">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="566140.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="566140.798966635">
             <mxGeometry x="162" y="2060" width="1152" height="8" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1 ; margin-left: 7px ; margin-right: 7px ; margin-top: 2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-weight: bold ; font-style: italic&quot;&gt;pemilik UMKM&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt; saya ingin melakukan &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-weight: bold ; font-style: italic&quot;&gt;penambahan produk&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt; yang akan saya jual &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="bWyNldr1Hctj" id="CvImws8w8auNJ2Tw3-q7-68">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566141.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566141.798966635">
             <mxGeometry x="174" y="2090" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="5VyNxfhmvjlJ" id="CvImws8w8auNJ2Tw3-q7-69">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="566140.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="566140.798966635">
             <mxGeometry x="162" y="2240" width="1152" height="8" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1 ; margin-left: 7px ; margin-right: 7px ; margin-top: 2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-weight: bold ; font-style: italic&quot;&gt;pemilik UMKM&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt; saya ingin melakukan &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-weight: bold ; font-style: italic&quot;&gt;mengubah produk&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt; yang pernah saya tambahkan &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="bWyNldr1Hctj" id="CvImws8w8auNJ2Tw3-q7-70">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566141.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566141.798966635">
             <mxGeometry x="174" y="2270" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="5VyNxfhmvjlJ" id="CvImws8w8auNJ2Tw3-q7-71">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="566140.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="566140.798966635">
             <mxGeometry x="162" y="2410" width="1152" height="8" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1 ; margin-left: 7px ; margin-right: 7px ; margin-top: 2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-weight: bold ; font-style: italic&quot;&gt;pemilik UMKM&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt; saya ingin melakukan &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-weight: bold ; font-style: italic&quot;&gt;melihat semua produk &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt;yang pernah saya tambahkan atau yang saya jual &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="bWyNldr1Hctj" id="CvImws8w8auNJ2Tw3-q7-72">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566141.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566141.798966635">
             <mxGeometry x="174" y="2440" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="5VyNxfhmvjlJ" id="CvImws8w8auNJ2Tw3-q7-73">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="566140.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="566140.798966635">
             <mxGeometry x="162" y="2590" width="1152" height="8" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1 ; margin-left: 7px ; margin-right: 7px ; margin-top: 2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-weight: bold ; font-style: italic&quot;&gt;pemilik UMKM&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt; saya ingin melakukan &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-weight: bold ; font-style: italic&quot;&gt;pengapusan produk &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt;yang pernah saya tambahkan &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="bWyNldr1Hctj" id="CvImws8w8auNJ2Tw3-q7-74">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566141.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566141.798966635">
             <mxGeometry x="174" y="2620" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="5VyNxfhmvjlJ" id="CvImws8w8auNJ2Tw3-q7-75">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="566140.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="566140.798966635">
             <mxGeometry x="162" y="2950" width="1152" height="8" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1 ; margin-left: 7px ; margin-right: 7px ; margin-top: 2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-weight: bold ; font-style: italic&quot;&gt;pemilik UMKM&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt; saya bisa melihat pemasan yang masuk sehingga dapat saya proses&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="bWyNldr1Hctj" id="CvImws8w8auNJ2Tw3-q7-76">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566141.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566141.798966635">
             <mxGeometry x="174" y="2800" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="5VyNxfhmvjlJ" id="CvImws8w8auNJ2Tw3-q7-77">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" vertex="1" zOrder="566140.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;align=center;spacing=3;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#ffffff;" parent="1" vertex="1" zOrder="566140.798966635">
             <mxGeometry x="162" y="2770" width="1152" height="8" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1 ; margin-left: 7px ; margin-right: 7px ; margin-top: 2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt;Sebagai seorang &lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-weight: bold ; font-style: italic&quot;&gt;pemilik UMKM&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt; saya bisa membuat harga diskon terhapad produk yang dijual&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; color: #333333 ; font-style: italic&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="bWyNldr1Hctj" id="CvImws8w8auNJ2Tw3-q7-78">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566141.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566141.798966635">
             <mxGeometry x="174" y="3010" width="312" height="123" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI halaman dashboard" lucidchartObjectId="AXyNho07WAuw" id="CvImws8w8auNJ2Tw3-q7-81">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566143.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566143.798966635">
             <mxGeometry x="859" y="1765.5" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Mengalihkan ke halaman dashboard" lucidchartObjectId="VXyNonN3crQb" id="CvImws8w8auNJ2Tw3-q7-82">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566145.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566145.798966635">
             <mxGeometry x="988" y="1765.5" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Membuat UI halaman dashboard" lucidchartObjectId="AXyNho07WAuw" id="CvImws8w8auNJ2Tw3-q7-83">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566143.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566143.798966635">
             <mxGeometry x="859" y="1932" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Mengalihkan ke halaman dashboard" lucidchartObjectId="VXyNonN3crQb" id="CvImws8w8auNJ2Tw3-q7-84">
-          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566145.798966635" parent="1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" parent="1" vertex="1" zOrder="566145.798966635">
             <mxGeometry x="988" y="1932" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat UI Tambah Barang" lucidchartObjectId="CUyN6VVBUE5g" id="6hVQuUSQxQn9QgGnxSK6-1">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566139.798966635" parent="1">
+            <mxGeometry x="576" y="2115.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat API / restAPI produk. (CREATE)" lucidchartObjectId="rUyNHyXhVPyy" id="6hVQuUSQxQn9QgGnxSK6-2">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283305.56614998414" parent="1">
+            <mxGeometry x="717" y="2115.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat UI detail produk" lucidchartObjectId="rUyNHyXhVPyy" id="6hVQuUSQxQn9QgGnxSK6-3">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283305.56614998414" parent="1">
+            <mxGeometry x="859" y="2115.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Mengalihkan ke halaman detail produk" lucidchartObjectId="VXyNonN3crQb" id="6hVQuUSQxQn9QgGnxSK6-4">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566145.798966635" parent="1">
+            <mxGeometry x="988" y="2115.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat UI Edit Barang" lucidchartObjectId="CUyN6VVBUE5g" id="6hVQuUSQxQn9QgGnxSK6-5">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566139.798966635" parent="1">
+            <mxGeometry x="576" y="2290" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat API / restAPI produk. (UPDATE)" lucidchartObjectId="rUyNHyXhVPyy" id="6hVQuUSQxQn9QgGnxSK6-6">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283305.56614998414" parent="1">
+            <mxGeometry x="717" y="2290" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat UI detail produk" lucidchartObjectId="rUyNHyXhVPyy" id="6hVQuUSQxQn9QgGnxSK6-7">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283305.56614998414" parent="1">
+            <mxGeometry x="859" y="2290" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Mengalihkan ke halaman list barang" lucidchartObjectId="VXyNonN3crQb" id="6hVQuUSQxQn9QgGnxSK6-8">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566145.798966635" parent="1">
+            <mxGeometry x="859" y="2645.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat UI List Barang" lucidchartObjectId="CUyN6VVBUE5g" id="6hVQuUSQxQn9QgGnxSK6-9">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566139.798966635" parent="1">
+            <mxGeometry x="576" y="2465.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat API / restAPI produk. (READ)" lucidchartObjectId="rUyNHyXhVPyy" id="6hVQuUSQxQn9QgGnxSK6-10">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283305.56614998414" parent="1">
+            <mxGeometry x="717" y="2465.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Menyediakan button &#39;Hapus&#39; di halaman detail produk" lucidchartObjectId="CUyN6VVBUE5g" id="6hVQuUSQxQn9QgGnxSK6-11">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566139.798966635" parent="1">
+            <mxGeometry x="576" y="2645.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat API / restAPI produk. (DELETE)" lucidchartObjectId="rUyNHyXhVPyy" id="6hVQuUSQxQn9QgGnxSK6-12">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283305.56614998414" parent="1">
+            <mxGeometry x="719" y="2645.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat UI List Pesanan" lucidchartObjectId="CUyN6VVBUE5g" id="6hVQuUSQxQn9QgGnxSK6-13">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566139.798966635" parent="1">
+            <mxGeometry x="576" y="2825.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat API / restAPI list pemesanan.(READ)" lucidchartObjectId="rUyNHyXhVPyy" id="6hVQuUSQxQn9QgGnxSK6-14">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283305.56614998414" parent="1">
+            <mxGeometry x="719" y="2825.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat UI Detail Pesanan" lucidchartObjectId="CUyN6VVBUE5g" id="6hVQuUSQxQn9QgGnxSK6-15">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566139.798966635" parent="1">
+            <mxGeometry x="859" y="2825.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Membuat API / restAPI detail pemesanan.(READ)" lucidchartObjectId="rUyNHyXhVPyy" id="6hVQuUSQxQn9QgGnxSK6-16">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283305.56614998414" parent="1">
+            <mxGeometry x="1000" y="2825.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Menampilkan hasil ke UI Detail Pemesanan" lucidchartObjectId="rUyNHyXhVPyy" id="6hVQuUSQxQn9QgGnxSK6-18">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283305.56614998414" parent="1">
+            <mxGeometry x="1135" y="2825.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Menampilkan hasil ke UI List Barang" lucidchartObjectId="rUyNHyXhVPyy" id="6hVQuUSQxQn9QgGnxSK6-19">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#d2d3d5;" vertex="1" zOrder="283305.56614998414" parent="1">
+            <mxGeometry x="859" y="2465.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Mengalihkan ke halaman detail produk" lucidchartObjectId="VXyNonN3crQb" id="6hVQuUSQxQn9QgGnxSK6-20">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566145.798966635" parent="1">
+            <mxGeometry x="992" y="2290" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Menyediakan button &#39;Buat Promosi&#39; di halaman detail produk" lucidchartObjectId="CUyN6VVBUE5g" id="6hVQuUSQxQn9QgGnxSK6-21">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566139.798966635" parent="1">
+            <mxGeometry x="576" y="3035.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Membuat UI Formulir Edit Produk khusus harga&lt;br&gt;&lt;/div&gt;" lucidchartObjectId="lhyNN_h_D~vL" id="6hVQuUSQxQn9QgGnxSK6-22">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283085.56614998414" parent="1">
+            <mxGeometry x="717" y="3035.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Membuat API / restAPI produk&lt;/div&gt;&lt;div&gt;(UPDATE)&lt;br&gt;&lt;/div&gt;" lucidchartObjectId="lhyNN_h_D~vL" id="6hVQuUSQxQn9QgGnxSK6-23">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="283085.56614998414" parent="1">
+            <mxGeometry x="859" y="3035.5" width="96" height="72" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Mengalihkan ke halaman detail barang" lucidchartObjectId="VXyNonN3crQb" id="6hVQuUSQxQn9QgGnxSK6-24">
+          <mxCell style="html=1;overflow=block;whiteSpace=wrap;;whiteSpace=wrap;fontSize=10;fontColor=#333333;fontStyle=2;align=center;spacingLeft=6.72;spacingRight=11.2;spacingTop=3.2;spacing=2;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#bcbdbf;" vertex="1" zOrder="566145.798966635" parent="1">
+            <mxGeometry x="1000" y="3035.5" width="96" height="72" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
